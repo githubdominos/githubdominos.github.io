@@ -20,7 +20,6 @@
                 <div class="presentation">
                     <h1>Bem vindo(a) à 
                         </br>
-                        
                     <span>@dominosbrotas</span>
                     </h1>
                 </div>
@@ -41,7 +40,7 @@ const mappedUsers = links.map((link, index) => {
             <span class="text" >${link.name}</span>
             </div>
           </a>`
-        });
+        }).join('');
 
 usersContainer.innerHTML = mappedUsers
 
