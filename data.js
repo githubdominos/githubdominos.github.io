@@ -4,12 +4,12 @@ const links = [
        link:'tel:+557135992000',
      },
      {
-       name:"cardápio aqui",
-       link:"https://drive.google.com/drive/folders/1UCyd9O0P6C_yobzsWz-e2D40xx-rcl8Y"
-     },
-     {
         name:"Cardápio Promocional",
         link:"https://drive.google.com/drive/folders/1d7elnYBHUiFPaIAFGpYVzDW0fW6ad9ar"
+     },
+     {
+       name:"cardápio aqui",
+       link:"https://drive.google.com/drive/folders/1UCyd9O0P6C_yobzsWz-e2D40xx-rcl8Y"
      },
      {
        name:"pedidos ifood",
