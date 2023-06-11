@@ -4,11 +4,11 @@ const links = [
        link:'tel:+557135992000',
      },
      {
-        name:"Combos",
+        name:"Cardápio MONTE SUA PIZZA",
         link:"https://drive.google.com/drive/folders/1WpOD_Bn03J31nR-O2aFZ6mHJ2Lv_vOWI?usp=share_link"
      },
      {
-       name:"Nosso Cardápio",
+       name:"Cardápio SABORES + COMBOS",
        link:"https://drive.google.com/drive/folders/1QyFGlkZ3yDCareHJz6S_nUzRCdsJJNJ3?usp=share_link"
      },
      {
